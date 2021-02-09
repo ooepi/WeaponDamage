@@ -1,0 +1,7 @@
+C:\Users\rober\OneDrive\projects\cs\WeaponDamageCalculator\WeaponDamageCalculator\bin\Debug\WeaponDamageCalculator.exe.config
+C:\Users\rober\OneDrive\projects\cs\WeaponDamageCalculator\WeaponDamageCalculator\bin\Debug\WeaponDamageCalculator.exe
+C:\Users\rober\OneDrive\projects\cs\WeaponDamageCalculator\WeaponDamageCalculator\bin\Debug\WeaponDamageCalculator.pdb
+C:\Users\rober\OneDrive\projects\cs\WeaponDamageCalculator\WeaponDamageCalculator\obj\Debug\WeaponDamageCalculator.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\projects\cs\WeaponDamageCalculator\WeaponDamageCalculator\obj\Debug\WeaponDamageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\projects\cs\WeaponDamageCalculator\WeaponDamageCalculator\obj\Debug\WeaponDamageCalculator.exe
+C:\Users\rober\OneDrive\projects\cs\WeaponDamageCalculator\WeaponDamageCalculator\obj\Debug\WeaponDamageCalculator.pdb
